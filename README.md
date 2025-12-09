@@ -1,3 +1,3 @@
 # Qwinton-Personal-Portfolio
 
-<img src="Qwinton Hemphill Headshot.jpg" width="150px" alt="Qwinton Hemphill Headshot">
+<img src="Qwinton Headshot.jpg" width="150px" alt="Qwinton Hemphill Headshot">
