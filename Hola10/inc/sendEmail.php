@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'user@website.com';
+$siteOwnersEmail = 'qdhemphilll472@students.ecsu.edu';
 
 
 if($_POST) {
@@ -65,5 +65,6 @@ if($_POST) {
     } # end if - there was a validation error
 
 }
+
 
 ?>
