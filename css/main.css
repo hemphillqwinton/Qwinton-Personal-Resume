@@ -3043,7 +3043,7 @@ html.no-csstransitions .home-content__main {
     background-color: #151515;
     background-image: url("../images/contact-bg.jpeg");
     background-repeat: no-repeat;
-    background-position: center, center;
+    background-position: center;
     background-size: cover
     padding-top: 13.2rem;
     padding-bottom: 12rem;
@@ -4139,5 +4139,6 @@ article.blog-single .blog-content {
     }
 
 }
+
 
 
