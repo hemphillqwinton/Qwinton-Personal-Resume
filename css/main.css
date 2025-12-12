@@ -3044,6 +3044,7 @@ html.no-csstransitions .home-content__main {
     background-image: url("../images/contact-bg.jpeg");
     background-repeat: no-repeat;
     background-position: center, center;
+    background-size: cover
     padding-top: 13.2rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 0.5);
@@ -3054,8 +3055,8 @@ html.no-csstransitions .home-content__main {
     position: absolute;
     top: 0;
     left: 0;
-    width: 200%;
-    height: 200%;
+    width: 100%;
+    height: 100%;
     opacity: .75;
     background-color: #070606;
 }
@@ -4138,4 +4139,5 @@ article.blog-single .blog-content {
     }
 
 }
+
 
